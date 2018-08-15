@@ -1,0 +1,6 @@
+framework module Pods_Deevesoft_Reistration_FormTests {
+  umbrella header "Pods-Deevesoft Reistration FormTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
